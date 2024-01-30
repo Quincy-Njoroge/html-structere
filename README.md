@@ -1,2 +1,2 @@
-# html-structere
+# html-structure
 html-structure code
